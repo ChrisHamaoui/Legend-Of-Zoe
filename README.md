@@ -6,13 +6,19 @@ It's played entirely in the terminal, which acts as a primitive graphical interf
 The goal is to acquire the piece of Hexaforce in each of the six levels without dying.
 
 The & represents the player (Zoe).
+
 The @ represents the monsters.
+
 The $ represents the chests.
+
 The E represents the exit portal.
 
 COMMANDS
 
 WASD to move.
+
 O to open a chest.
+
 C to dig in the walls.
+
 X to attack the monsters.
